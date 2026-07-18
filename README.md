@@ -1,17 +1,12 @@
-# student_support_ai
+# AI-Student-Support-Chatbot
 
-A new Flutter project.
+A Flutter-based AI chatbot that helps students with common academic queries such as admissions, fees, scholarships, exams, campus facilities, and more.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is built using Flutter and will integrate an AI model (Gemini) to provide intelligent student support.
 
-A few resources to get you started if this is your first Flutter project:
+For Flutter documentation:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- https://docs.flutter.dev/
+- https://docs.flutter.dev/get-started/codelab
